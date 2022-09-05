@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flameappreact/static/css/main.073c9b0a.css",
+    "main.js": "/flameappreact/static/js/main.02c7bcc2.js",
+    "static/js/787.abc799bd.chunk.js": "/flameappreact/static/js/787.abc799bd.chunk.js",
+    "index.html": "/flameappreact/index.html",
+    "main.073c9b0a.css.map": "/flameappreact/static/css/main.073c9b0a.css.map",
+    "main.02c7bcc2.js.map": "/flameappreact/static/js/main.02c7bcc2.js.map",
+    "787.abc799bd.chunk.js.map": "/flameappreact/static/js/787.abc799bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.02c7bcc2.js"
+  ]
+}
